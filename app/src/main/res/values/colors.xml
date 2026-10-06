@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- CampusGo Primary Colors -->
+    <color name="navy">#14213D</color>
+    <color name="navy_dark">#0B132B</color>
+
+    <!-- Green / Teal -->
+    <color name="teal">#2A9D8F</color>
+    <color name="teal_dark">#21867A</color>
+    <color name="teal_light">#DDF4F0</color>
+
+    <!-- Accent -->
+    <color name="orange">#F4A261</color>
+
+    <!-- Background -->
+    <color name="background">#F7F9FC</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1D2433</color>
+    <color name="text_secondary">#697386</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Utility -->
+    <color name="divider">#E5E9F0</color>
+    <color name="success">#2A9D8F</color>
+    <color name="error">#D9534F</color>
+
+</resources>

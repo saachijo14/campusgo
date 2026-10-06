@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CampusGo" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Main Colors -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+
+        <item name="colorSecondary">@color/teal</item>
+        <item name="colorOnSecondary">@color/text_white</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/navy_dark</item>
+        <item name="android:navigationBarColor">@color/navy_dark</item>
+
+        <!-- Status Bar Icons -->
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Font -->
+        <item name="android:fontFamily">sans</item>
+
+        <!-- Disable Action Bar -->
+        <item name="windowActionModeOverlay">true</item>
+
+    </style>
+
+</resources>
